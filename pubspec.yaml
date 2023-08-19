@@ -1,0 +1,10 @@
+name: personal_flutter_lints
+version: 1.0.0
+description: Lints for my personal flutter projects.
+repository: https://github.com/ArunPrakashG/personal_flutter_lints
+issue_tracker: https://github.com/ArunPrakashG/personal_flutter_lints/issues
+topics:
+  - lint
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
